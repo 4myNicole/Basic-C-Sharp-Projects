@@ -1,0 +1,30 @@
+using System;
+
+class Program
+{
+        static void Main()
+	{
+
+	
+		Console.WriteLine("What is your favourite number?");
+		int yourNumber = Console.ReadLine();
+		Console.WriteLine(yourNumber + " times 50 is " + yourNumber * 50);
+
+        Console.WriteLine("How old are you?");
+		int yourAge = Console.ReadLine();
+		Console.WriteLine("In 25 years you will be: " + yourAge + 25);
+
+        Console.WriteLine("What day of the month were you born on?");
+		int yourBirthDAY = Console.ReadLine();
+		Console.WriteLine(yourBirthDAY "divided by 12.5 is " + yourBirthDAY / 12.5);
+
+        Console.WriteLine("Pick a number and ill tell you if its more than 50");
+		int pickANumber = Console.ReadLine();
+        bool GreaterThanFifty = pickANumber > 50;
+		Console.WriteLine(GreaterThanFifty);
+
+        Console.WriteLine("What year were you born?");
+		int birthYEAR = Console.ReadLine();
+		Console.WriteLine(birthYEAR + "divided by 7 has a remainder of " + birthYEAR % 7);
+	}
+}
