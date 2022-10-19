@@ -10,7 +10,7 @@ class Program
 	{
 
         Console.WriteLine("What is your age?");
-        int yourAge = Console.ReadLine();
+        int yourAge = Convert.ToInt32(Console.ReadLine());
 
         Console.WriteLine("Have you ever had a DUI violation?");
         string duiViolation = Console.ReadLine();
@@ -18,10 +18,10 @@ class Program
         Console.WriteLine(yesOrNo);
 
         Console.WriteLine("How many speeding tickets have you had?");
-        int speedingTickets = Console.ReadLine();
+        int speedingTickets = Convert.ToInt32(Console.ReadLine());
 
-        Console.WriteLine("Qualified?")
-        bool qualified = (yourAge > 15 && duiViolation == false && speedingTickets <= 3)
+        Console.WriteLine("Qualified?");
+        bool qualified = (yourAge > 15 && duiViolation == false && speedingTickets <= 3);
         
 
     	}
