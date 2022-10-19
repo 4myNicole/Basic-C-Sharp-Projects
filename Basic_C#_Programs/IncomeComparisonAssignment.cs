@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 class Program
 {
-        static void Main()
+        static void Main(string[] args)
 	{
 
         Console.WriteLine("Anonymous Income Comparison Program");

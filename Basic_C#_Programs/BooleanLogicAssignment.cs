@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 class Program
 {
-        static void Main()
+        static void Main(string[] args)
 	{
 
         Console.WriteLine("What is your age?");
@@ -22,7 +22,6 @@ class Program
 
         Console.WriteLine("Qualified?");
         bool qualified = (yourAge > 15 && duiViolation == false && speedingTickets <= 3);
-        
 
     	}
 }

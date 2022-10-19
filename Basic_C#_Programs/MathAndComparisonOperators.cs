@@ -38,7 +38,6 @@ class Program
 		int currentTemp = 70;
 		
 		bool isWarm = currentTemp <= roomTemp;
-		bool isWarm = currentTemp != roomTemp;
 		Console.WriteLine(isWarm);
 		Console.ReadLine();
 	}

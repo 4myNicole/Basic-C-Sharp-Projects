@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 class Program
 {
-        static void Main()
+        static void Main(string[] args)
 	{
 
-	Console.WriteLine("What is your favourite number?");
+	
+		Console.WriteLine("What is your favourite number?");
 		int yourNumber = Convert.ToInt32(Console.ReadLine());
 		Console.WriteLine(yourNumber + " times 50 is " + yourNumber * 50);
 

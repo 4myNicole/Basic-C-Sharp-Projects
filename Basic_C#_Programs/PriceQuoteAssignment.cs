@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 class Program
 {
-        static void Main()
+        static void Main(string[] args)
 	{
 
         Console.WriteLine("Welcome to Package Express. Please follow the instructions below.");
