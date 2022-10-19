@@ -13,11 +13,15 @@ class Program
         int yourAge = Console.ReadLine();
 
         Console.WriteLine("Have you ever had a DUI violation?");
-        duiViolation = Console.ReadLine();
+        string duiViolation = Console.ReadLine();
+        bool yesOrNo = duiViolation == "yes";
+        Console.WriteLine(yesOrNo);
 
         Console.WriteLine("How many speeding tickets have you had?");
         int speedingTickets = Console.ReadLine();
 
+        Console.WriteLine("Qualified?")
+        bool qualified = (yourAge > 15 && duiViolation == false && speedingTickets <= 3)
         
 
     	}
