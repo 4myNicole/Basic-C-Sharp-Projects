@@ -18,7 +18,7 @@ namespace BooleanLogicAssignment
             int speedingTickets = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Qualified?");
-            bool qualified = yourAge > 15 && duiViolation == false && speedingTickets <= 3;
+            bool qualified = Console.WriteLine(yourAge > 15 && duiViolation == false && speedingTickets <= 3);
         }
     }
 }
