@@ -1,0 +1,5 @@
+/Users/amyandcallum/Projects/BooleanLogicAssignment/BooleanLogicAssignment/obj/Debug/netcoreapp3.1/BooleanLogicAssignment.csproj.AssemblyReference.cache
+/Users/amyandcallum/Projects/BooleanLogicAssignment/BooleanLogicAssignment/obj/Debug/netcoreapp3.1/BooleanLogicAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amyandcallum/Projects/BooleanLogicAssignment/BooleanLogicAssignment/obj/Debug/netcoreapp3.1/BooleanLogicAssignment.AssemblyInfoInputs.cache
+/Users/amyandcallum/Projects/BooleanLogicAssignment/BooleanLogicAssignment/obj/Debug/netcoreapp3.1/BooleanLogicAssignment.AssemblyInfo.cs
+/Users/amyandcallum/Projects/BooleanLogicAssignment/BooleanLogicAssignment/obj/Debug/netcoreapp3.1/BooleanLogicAssignment.csproj.CoreCompileInputs.cache
