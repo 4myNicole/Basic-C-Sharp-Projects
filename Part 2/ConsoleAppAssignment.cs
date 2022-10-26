@@ -122,7 +122,21 @@ class Program
         //Part 6
         // Create a list of strings that has at least two identical strings in the list. DONE
         // Create a foreach loop that evaluates each item in the list, and displays a message showing the string and whether or not it has already appeared in the list.
-        
+        List<string> coloursList = new List<string>();
+		coloursList.Add("blue");
+		coloursList.Add("red");
+		coloursList.Add("orange");
+		coloursList.Add("red");
+		coloursList.Add("yellow");
+		coloursList.Add("green");
+		
+		foreach (string colour in coloursList)
+		{
+		 if (colour = coloursList.Distinct())
+		 {
+		 Console.WriteLine(colour);
+		 }
+		}
         
     }
 }
