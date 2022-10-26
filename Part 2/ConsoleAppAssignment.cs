@@ -61,33 +61,68 @@ class Program
         
 
         //Part 4
-        // A list of strings where each item in the list is unique.
-        // Ask the user to input text to search for in the list.
-        // A loop that iterates through the list and then displays the index of the list that contains matching text on the screen.
-        // Add code to the loop that tells a user if they put in text that isn’t in the list.
-        // Add code to the loop that stops it from executing once a match has been found.
+        List<string> animalsList = new List<string>();
+		animalsList.Add("cat");
+		animalsList.Add("dog");
+		animalsList.Add("hamster");
+		animalsList.Add("lizard");
+		
+		Console.WriteLine("type either 'dog', 'cat', 'hamster' or 'lizard' and ill tell you where it is in my list: ");
+		string userGuess = Console.ReadLine().ToLower();
+		
+		if (animalsList.Contains(userGuess))
+		{		
+		Console.WriteLine(userGuess + " is number " + animalsList.IndexOf(userGuess) + " in my list!");
+		}
+		else
+		{
+		Console.WriteLine(userGuess + " is not in my list!");
+		}
+		
+		Console.WriteLine(" ");
+		
+		foreach (string animal in animalsList)
+		{
+		 if (animal == userGuess)
+		 {
+		 Console.WriteLine(animal);
+		 }
+		}
         
-
-        
-
-
-
         //Part 5
-        // A list of strings that has at least two identical strings in the list. Ask the user to select text to search for in the list.
-        // Create a loop that iterates through the list and then displays the indices of the list that contain matching text on the screen.
-        // Add code to the loop that tells a user if they put in text that isn’t in the list.
         
+        // Create a loop that iterates through the list and then displays the indices of the list that contain matching text on the screen.
+        // ^^ Cant do it for identical strings -- tried 100 different ways and cant find anything on google to help
+        
+        
+        List<string> pizzaToppings = new List<string>();
+		pizzaToppings.Add("sweetcorn");
+		pizzaToppings.Add("pepper");
+		pizzaToppings.Add("broccoli");
+		pizzaToppings.Add("mushroom");
+		pizzaToppings.Add("spinach");
+		pizzaToppings.Add("sweetcorn");
+		
+		Console.WriteLine("type one of the following toppings: 'sweetcorn', 'pepper', 'broccoli', 'mushroom', 'spinach' ");
+		
+		string userTopping = Console.ReadLine().ToLower();
+		
+		
+		if (pizzaToppings.Contains(userTopping))
+		{		
+		Console.WriteLine(userTopping + " is number " + pizzaToppings.IndexOf(userTopping) + " in my list!");
+		}
+		else
+		{
+		Console.WriteLine(userTopping + " is not in my list!");
+		}
 
-
+        Console.WriteLine(" ");
 
         //Part 6
-        // Create a list of strings that has at least two identical strings in the list.
+        // Create a list of strings that has at least two identical strings in the list. DONE
         // Create a foreach loop that evaluates each item in the list, and displays a message showing the string and whether or not it has already appeared in the list.
         
-
         
-
-		
-
-	}
+    }
 }

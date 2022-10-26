@@ -18,7 +18,7 @@ class Program
 				Console.WriteLine("Passing test score: " + testScores[i]);
 		}
     }
-		Console.ReadLine();
+		
 
         //string array 
 
@@ -32,7 +32,7 @@ class Program
 		}
 		
 		}
-      		Console.ReadLine();
+      		
 
 
          // integer list
@@ -50,7 +50,7 @@ class Program
 		   Console.WriteLine("Passing test score: " + score);
 		  }
 		}
-		Console.ReadLine();
+		
 
         //string list
 		
