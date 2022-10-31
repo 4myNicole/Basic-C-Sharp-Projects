@@ -1,0 +1,13 @@
+/Users/amyandcallum/Projects/Part 2/ExceptionsAssignment/ExceptionsAssignment/obj/Debug/netcoreapp3.1/ExceptionsAssignment.csproj.AssemblyReference.cache
+/Users/amyandcallum/Projects/Part 2/ExceptionsAssignment/ExceptionsAssignment/obj/Debug/netcoreapp3.1/ExceptionsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amyandcallum/Projects/Part 2/ExceptionsAssignment/ExceptionsAssignment/obj/Debug/netcoreapp3.1/ExceptionsAssignment.AssemblyInfoInputs.cache
+/Users/amyandcallum/Projects/Part 2/ExceptionsAssignment/ExceptionsAssignment/obj/Debug/netcoreapp3.1/ExceptionsAssignment.AssemblyInfo.cs
+/Users/amyandcallum/Projects/Part 2/ExceptionsAssignment/ExceptionsAssignment/obj/Debug/netcoreapp3.1/ExceptionsAssignment.csproj.CoreCompileInputs.cache
+/Users/amyandcallum/Projects/Part 2/ExceptionsAssignment/ExceptionsAssignment/bin/Debug/netcoreapp3.1/ExceptionsAssignment.deps.json
+/Users/amyandcallum/Projects/Part 2/ExceptionsAssignment/ExceptionsAssignment/bin/Debug/netcoreapp3.1/ExceptionsAssignment.runtimeconfig.json
+/Users/amyandcallum/Projects/Part 2/ExceptionsAssignment/ExceptionsAssignment/bin/Debug/netcoreapp3.1/ExceptionsAssignment.runtimeconfig.dev.json
+/Users/amyandcallum/Projects/Part 2/ExceptionsAssignment/ExceptionsAssignment/bin/Debug/netcoreapp3.1/ExceptionsAssignment.dll
+/Users/amyandcallum/Projects/Part 2/ExceptionsAssignment/ExceptionsAssignment/bin/Debug/netcoreapp3.1/ExceptionsAssignment.pdb
+/Users/amyandcallum/Projects/Part 2/ExceptionsAssignment/ExceptionsAssignment/obj/Debug/netcoreapp3.1/ExceptionsAssignment.dll
+/Users/amyandcallum/Projects/Part 2/ExceptionsAssignment/ExceptionsAssignment/obj/Debug/netcoreapp3.1/ExceptionsAssignment.pdb
+/Users/amyandcallum/Projects/Part 2/ExceptionsAssignment/ExceptionsAssignment/obj/Debug/netcoreapp3.1/ExceptionsAssignment.genruntimeconfig.cache
