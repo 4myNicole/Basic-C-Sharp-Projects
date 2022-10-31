@@ -1,0 +1,13 @@
+/Users/amyandcallum/Projects/Part 2/ArraysAssignment/ArraysAssignment/obj/Debug/netcoreapp3.1/ArraysAssignment.csproj.AssemblyReference.cache
+/Users/amyandcallum/Projects/Part 2/ArraysAssignment/ArraysAssignment/obj/Debug/netcoreapp3.1/ArraysAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amyandcallum/Projects/Part 2/ArraysAssignment/ArraysAssignment/obj/Debug/netcoreapp3.1/ArraysAssignment.AssemblyInfoInputs.cache
+/Users/amyandcallum/Projects/Part 2/ArraysAssignment/ArraysAssignment/obj/Debug/netcoreapp3.1/ArraysAssignment.AssemblyInfo.cs
+/Users/amyandcallum/Projects/Part 2/ArraysAssignment/ArraysAssignment/obj/Debug/netcoreapp3.1/ArraysAssignment.csproj.CoreCompileInputs.cache
+/Users/amyandcallum/Projects/Part 2/ArraysAssignment/ArraysAssignment/bin/Debug/netcoreapp3.1/ArraysAssignment.deps.json
+/Users/amyandcallum/Projects/Part 2/ArraysAssignment/ArraysAssignment/bin/Debug/netcoreapp3.1/ArraysAssignment.runtimeconfig.json
+/Users/amyandcallum/Projects/Part 2/ArraysAssignment/ArraysAssignment/bin/Debug/netcoreapp3.1/ArraysAssignment.runtimeconfig.dev.json
+/Users/amyandcallum/Projects/Part 2/ArraysAssignment/ArraysAssignment/bin/Debug/netcoreapp3.1/ArraysAssignment.dll
+/Users/amyandcallum/Projects/Part 2/ArraysAssignment/ArraysAssignment/bin/Debug/netcoreapp3.1/ArraysAssignment.pdb
+/Users/amyandcallum/Projects/Part 2/ArraysAssignment/ArraysAssignment/obj/Debug/netcoreapp3.1/ArraysAssignment.dll
+/Users/amyandcallum/Projects/Part 2/ArraysAssignment/ArraysAssignment/obj/Debug/netcoreapp3.1/ArraysAssignment.pdb
+/Users/amyandcallum/Projects/Part 2/ArraysAssignment/ArraysAssignment/obj/Debug/netcoreapp3.1/ArraysAssignment.genruntimeconfig.cache
