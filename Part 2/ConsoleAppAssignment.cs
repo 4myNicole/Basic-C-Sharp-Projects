@@ -92,7 +92,7 @@ class Program
         //Part 5
         
         // Create a loop that iterates through the list and then displays the indices of the list that contain matching text on the screen.
-        // ^^ Cant do it for identical strings -- tried 100 different ways and cant find anything on google to help
+        // ^^ Still cant get index of 2nd 'sweetcorn'
         
         
         List<string> pizzaToppings = new List<string>();
@@ -107,15 +107,18 @@ class Program
 		
 		string userTopping = Console.ReadLine().ToLower();
 		
-		
-		if (pizzaToppings.Contains(userTopping))
+		foreach (string topping in pizzaToppings)
+		{
+			if (topping == userTopping)
 		{		
-		Console.WriteLine(userTopping + " is number " + pizzaToppings.IndexOf(userTopping) + " in my list!");
+		Console.WriteLine(userTopping + " is number " + pizzaToppings.IndexOf(topping) + " in my list!");
 		}
 		else
 		{
-		Console.WriteLine(userTopping + " is not in my list!");
+		Console.WriteLine(userTopping + " is NOT number " + pizzaToppings.IndexOf(topping) + " in my list!");
 		}
+		}
+		
 
         Console.WriteLine(" ");
 
@@ -130,13 +133,22 @@ class Program
 		coloursList.Add("yellow");
 		coloursList.Add("green");
 		
-		foreach (string colour in coloursList)
+		List<string> newColoursList = new List<string>();
+		
+						
+		foreach (string colour in coloursList) 
 		{
-		 if (colour = coloursList.Distinct())
-		 {
-		 Console.WriteLine(colour);
-		 }
+			if (!newColoursList.Contains(colour));
+		    newColoursList.Add(colour);
 		}
+
+		
+		Console.WriteLine(newColoursList[0]);
+		Console.WriteLine(newColoursList[1]);
+		Console.WriteLine(newColoursList[2]);
+		Console.WriteLine(newColoursList[3]);
+		Console.WriteLine(newColoursList[4]);
+		Console.WriteLine(newColoursList[5]);
         
     }
 }
